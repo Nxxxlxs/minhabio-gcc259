@@ -1,5 +1,11 @@
 # minhabio-gcc259
 
+<p align="center">
+
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQFn73ZrHjECpg/profile-displayphoto-shrink_800_800/0/1645626128946?e=2147483647&v=beta&t=mR5M-4dza_4lZJxmdtUZo1KBvk2lFOCO96ddZ8TI22Q"  width="200" />
+
+</p>
+
 # **Sobre**
 
 <p align="justify">Sou estudante de graduação em Ciência da Computação pela Universidade Federal de Lavras, atualmente focado em desenvolvimento web e aprofundando meus conhecimentos sobre ReactJS e Spring Boot em um projeto de extensão com foco em testes de qualidade de aplicações que utilizam essas tecnologias, com o uso de Jest, React Testing Library, JUnit, Selenium e Cypress.</p>
